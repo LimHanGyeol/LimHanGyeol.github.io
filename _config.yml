@@ -1,4 +1,7 @@
 # Jekyll configuration
+
+remote_theme : jekyller/jasper2
+
 markdown: kramdown
 highlighter: rouge
 paginate: 100 # it will paginate after this number
@@ -6,7 +9,8 @@ language: 'en-uk'
 words_per_minute: 200
 
 # edit baseurl to simply '/' if using as your personal page (instead of a project page)
-baseurl: /jasper2/
+url : "https://LimHanGyeol.github.io"
+baseurl: "/"
 
 # Website info
 title: Ghost
