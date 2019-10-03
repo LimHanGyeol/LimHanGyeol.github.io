@@ -73,8 +73,8 @@ feed:
 # or "master" otherwise
 safe: False
 lsi: False
-username: jekyller
-repo: jasper2
+username: LimHanGyeol
+repo: LimHanGyeol.github.io
 branch: master
 relative_source: ../jasper2/
 destination: ../jasper2-pages/
